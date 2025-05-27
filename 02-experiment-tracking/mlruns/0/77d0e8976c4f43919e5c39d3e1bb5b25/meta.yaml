@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kalicharannimmagadda/MLops_ZC/MLops_ZC/02-experiment-tracking/mlruns/0/77d0e8976c4f43919e5c39d3e1bb5b25/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77d0e8976c4f43919e5c39d3e1bb5b25
+run_name: enchanting-sloth-836
+run_uuid: 77d0e8976c4f43919e5c39d3e1bb5b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748339439018
+status: 1
+tags: []
+user_id: kalicharannimmagadda

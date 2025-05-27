@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kalicharannimmagadda/MLops_ZC/MLops_ZC/02-experiment-tracking/mlruns/0/66ae1076a80a4a429e3c589991a4bfaa/artifacts
+end_time: 1748340674099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66ae1076a80a4a429e3c589991a4bfaa
+run_name: fun-dolphin-844
+run_uuid: 66ae1076a80a4a429e3c589991a4bfaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748340665326
+status: 3
+tags: []
+user_id: kalicharannimmagadda

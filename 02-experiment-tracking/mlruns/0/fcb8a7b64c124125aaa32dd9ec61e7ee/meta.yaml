@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kalicharannimmagadda/MLops_ZC/MLops_ZC/02-experiment-tracking/mlruns/0/fcb8a7b64c124125aaa32dd9ec61e7ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcb8a7b64c124125aaa32dd9ec61e7ee
+run_name: debonair-frog-470
+run_uuid: fcb8a7b64c124125aaa32dd9ec61e7ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748338725334
+status: 1
+tags: []
+user_id: kalicharannimmagadda

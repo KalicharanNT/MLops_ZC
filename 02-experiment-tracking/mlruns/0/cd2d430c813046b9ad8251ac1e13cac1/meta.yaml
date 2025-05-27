@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kalicharannimmagadda/MLops_ZC/MLops_ZC/02-experiment-tracking/mlruns/0/cd2d430c813046b9ad8251ac1e13cac1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd2d430c813046b9ad8251ac1e13cac1
+run_name: learned-crane-600
+run_uuid: cd2d430c813046b9ad8251ac1e13cac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748338809782
+status: 1
+tags: []
+user_id: kalicharannimmagadda
